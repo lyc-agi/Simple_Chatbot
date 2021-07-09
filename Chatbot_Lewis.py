@@ -8,6 +8,7 @@ import csv
 flag=True
 print("-----------简易聊天机器人Lewis开启-----------")
 print("输入语句按回车后得到回复，输入“再见”或“拜拜”退出")
+
 while flag:
     print("我：",end='')
     enty='entity='
